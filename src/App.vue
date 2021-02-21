@@ -104,14 +104,14 @@ body {
 }
 
 #app {
-  background-image: url("./assets/coldweather.jpg");
+  background-image: url("./assets/Pexels_Videos_1858244.mp4");
   background-size: cover;
   background-position: bottom;
   transition: 0.4s;
 }
 
 #app.warm {
-  background-image: url("./assets/warmweather.jpg");
+  background-image: url("./assets/Pexels Videos 1778068.mp4");
 }
 
 #app.fall {
